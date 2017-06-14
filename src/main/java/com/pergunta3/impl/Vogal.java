@@ -5,6 +5,11 @@ import java.util.Objects;
 import com.pergunta3.api.FuncoesVogal;
 import com.pergunta3.constant.Constantes;
 
+/**
+ * Classe que implementa a logica dos metodos da interfase FuncoesVogal
+ * 
+ * @author: Gustavo Polar gpolars@gmail.com, contato@gustavopolarsa.com
+ */
 public class Vogal implements FuncoesVogal {
 
 	private String palavraOuFrase;

@@ -10,6 +10,11 @@ import java.util.stream.Collectors;
 import com.pergunta3.api.FuncoesVogal;
 import com.pergunta3.constant.Constantes;
 
+/**
+ * Classe que tem a logica para implementar  calculo da primeira vogal
+ * 
+ * @author: Gustavo Polar gpolars@gmail.com, contato@gustavopolarsa.com
+ */
 public class CalculoPrimeiraVogal {
 
 	public static String obterPrimeiraVogal(FuncoesVogal vogal){

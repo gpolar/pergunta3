@@ -1,5 +1,10 @@
 package com.pergunta3.constant;
 
+/**
+ * Classe que tem as possiveis Constantes
+ * 
+ * @author: Gustavo Polar gpolars@gmail.com, contato@gustavopolarsa.com
+ */
 public class Constantes {
 
 	public static final String VAZIO = "";

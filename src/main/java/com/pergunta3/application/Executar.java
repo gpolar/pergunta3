@@ -1,5 +1,6 @@
 package com.pergunta3.application;
 
+import com.pergunta3.helper.CalculoPrimeiraVogal;
 import com.pergunta3.impl.Vogal;
 
 /**

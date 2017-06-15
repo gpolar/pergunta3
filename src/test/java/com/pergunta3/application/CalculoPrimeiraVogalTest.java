@@ -4,6 +4,7 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
+import com.pergunta3.helper.CalculoPrimeiraVogal;
 import com.pergunta3.impl.Vogal;
 
 public class CalculoPrimeiraVogalTest {

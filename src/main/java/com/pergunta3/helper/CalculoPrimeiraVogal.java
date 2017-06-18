@@ -13,7 +13,7 @@ import com.pergunta3.constant.Constantes;
 /**
  * Classe que tem a logica para implementar calculo da primeira vogal
  * 
- * @author: Gustavo Polar gpolars@gmail.com, contato@gustavopolarsa.com
+ * @author: Gustavo Polar gpolars@gmail.com, contact@gustavopolarsa.com
  */
 public class CalculoPrimeiraVogal {
 

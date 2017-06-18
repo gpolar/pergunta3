@@ -8,7 +8,7 @@ import com.pergunta3.constant.Constantes;
 /**
  * Classe que implementa a logica dos metodos da interfase FuncoesVogal
  * 
- * @author: Gustavo Polar gpolars@gmail.com, contato@gustavopolarsa.com
+ * @author: Gustavo Polar gpolars@gmail.com, contact@gustavopolarsa.com
  */
 public class Vogal implements FuncoesVogal {
 

@@ -6,7 +6,7 @@ import com.pergunta3.impl.Vogal;
 /**
  * Classe que tem o metodo main executar o metodo de obterPrimeiraVogal
  * 
- * @author: Gustavo Polar gpolars@gmail.com, contato@gustavopolarsa.com
+ * @author: Gustavo Polar gpolars@gmail.com, contact@gustavopolarsa.com
  */
 public class Executar {
 
